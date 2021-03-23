@@ -1,0 +1,16 @@
+
+[ - INFO - ]
+
+- Commandos:
+
+    Module
+        nest g mo post
+
+    Controller
+        nest g co post --no-spec
+
+    Services
+        nest g s post --no-spec  
+
+
+
